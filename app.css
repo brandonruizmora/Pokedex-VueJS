@@ -1,0 +1,79 @@
+.app__table-stats {
+    min-height: 250px;
+}
+
+.app__table-label {
+    font-size: small;
+}
+
+.app__bg-bug {
+    background-color: #AEFFC5;
+}
+
+.app__bg-dark {
+    background-color: #AEFFC5;
+}
+
+.app__bg-dragon {
+    background-color: #AEFFC5;
+}
+
+.app__bg-electric {
+    background-color: #FFFF81;
+}
+
+.app__bg-fairy {
+    background-color: #F3AEFF;
+}
+
+.app__bg-fighting {
+    background-color: #E00000;
+}
+
+.app__bg-fire {
+    background-color: #FF4D64;
+}
+
+.app__bg-flying {
+    background-color: #A5EFE8;
+}
+
+.app__bg-ghost {
+    background-color: #F6F6F6;
+}
+
+.app__bg-grass {
+    background-color: #AEFFB8;
+}
+
+.app__bg-ground {
+    background-color: #BDA66B;
+}
+
+.app__bg-ice {
+    background-color: #AEFFFD;
+}
+
+.app__bg-normal {
+    background-color: #E4E4E4;
+}
+
+.app__bg-poison {
+    background-color: #D3AEFF;
+}
+
+.app__bg-psychic {
+    background-color: #DBD6AF;
+}
+
+.app__bg-rock {
+    background-color: #A55C00;
+}
+
+.app__bg-steel {
+    background-color: #BABABA;
+}
+
+.app__bg-water {
+    background-color: #AEC7FF;
+}
